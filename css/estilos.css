@@ -22,7 +22,7 @@ body {
   color: black;
   font-weight: bold;
   text-align: justify;
-  font-size: 20px;
+  font-size: 28px;
 }
 
 .Logo {
@@ -50,7 +50,7 @@ body {
     display: flex;
     flex-direction: row;
     background-color: rgb(32, 47, 91, 1);
-    font-size: 35px;
+    font-size: 45px;
     font-weight: bold;
    
 }
@@ -133,7 +133,8 @@ background-repeat: no-repeat;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
+  color:white;
 }
 
 .footer__lista {
@@ -141,15 +142,17 @@ background-repeat: no-repeat;
   flex-direction: row-reverse;
   align-items: center;
   list-style: none;
+  color:white;
+
 }
 
 .footer__item {
   margin-left: 2rem;
+  
 }
 
-.imagencarousel{
-  width: 969px ;
-  height: 414px;
-
+.link{
+  color:white;
+  text-decoration: none;
 }
 
