@@ -173,3 +173,18 @@ background-repeat: no-repeat;
   border-radius: 5px;
   text-decoration: none;
 }
+
+.contacto1 {
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
+.fuente{
+  color: rgb(32, 47, 91, 1);
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+.ubicacion{
+  padding-left: 80px;
+}
