@@ -156,3 +156,20 @@ background-repeat: no-repeat;
   text-decoration: none;
 }
 
+.videos{
+  text-align:center;
+  text-decoration: none;
+}
+
+.position-fixed2 {
+  background-color: none;
+  color: red;
+  font-size: 60px;
+  position: fixed;
+  right: 2rem;
+  bottom: 1rem;
+  z-index: 10;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+}
