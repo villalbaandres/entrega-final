@@ -70,11 +70,6 @@ background-image: url(../Imagenes/banner.jpg);
 background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
-
-
- 
-
-  
 }
 
 .servicios1 {
@@ -193,6 +188,11 @@ background-repeat: no-repeat;
   padding-left: 80px;
 }
 
+.slide{
+  margin-top: 10px;
+}
+
+
 
 @media (max-width: 600px){
 
@@ -249,5 +249,7 @@ background-repeat: no-repeat;
     height: 250px;
   }
 
-  
+  .slide img{
+    height: 30vh;
+  }
 }
