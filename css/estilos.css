@@ -158,6 +158,7 @@ background-repeat: no-repeat;
 .videos{
   text-align:center;
   text-decoration: none;
+  list-style: none;
 }
 
 .position-fixed2 {
@@ -252,4 +253,10 @@ background-repeat: no-repeat;
   .slide img{
     height: 30vh;
   }
+
+  .vid{
+    width: 350px;
+    height: 230px;
+   padding-right: 3rem;
 }
+  }
