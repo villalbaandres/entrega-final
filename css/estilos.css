@@ -259,4 +259,16 @@ background-repeat: no-repeat;
     height: 230px;
    padding-right: 3rem;
 }
+
+.fuente{
+  font-size: 22px;
+}
+
+.ubicacion{
+  padding: 0;
+  margin: 10px 0 10px 0;
+  width: 320px; 
+  height: 250px;
+}
+
   }
